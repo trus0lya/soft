@@ -40,7 +40,7 @@ public class Manager {
             System.exit(1);
             return;
         }
-        NodeList softElements = document.getDocumentElement().getElementsByTagName(TAG_PROGRAM);// for(i...n) { soft.add(CreateElement()}
+        NodeList softElements = document.getDocumentElement().getElementsByTagName(TAG_PROGRAM);
         for (int i = 0; i < softElements.getLength(); ++i) {
             if (softElements.item(i).getNodeType() != Node.ELEMENT_NODE){
                 continue;
