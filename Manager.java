@@ -10,8 +10,8 @@ import java.util.ArrayList;
 
 public class Manager {
 
-    private final String TAG_SIZE = "size";
-    private final String TAG_PRICE = "price";
+    private static final String TAG_SIZE = "size";
+    private static final String TAG_PRICE = "price";
     private static final String TAG_TITLE = "title";
     private static final String TAG_TYPE = "type";
     private static final String TAG_PROGRAM = "program";
