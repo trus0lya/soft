@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<soft>
+    <program type="SYSTEM" title = "ASTRA32" price="32.5" size="635.6" />
+    <program type="IDE" title="PhpStorm" price="199.3" size="2076.3" />
+    <program type="OFFICE" title="iWork" price="60.1" size="2076.2" />
+    <program type="ANTIVIRUS" title = "AVZ" price="70.2" size="74.0" />
+</soft>
