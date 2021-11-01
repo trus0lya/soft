@@ -20,11 +20,11 @@ public  class  Soft {
     }
 
 
-    public final double getPrice() {
+    public  double getPrice() {
         return price;
     }
 
-    public final double getSize() {
+    public  double getSize() {
         return size;
     }
 
